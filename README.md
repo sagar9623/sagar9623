@@ -1,7 +1,7 @@
 ![MasterHead](https://cubettech.com/wp-content/uploads/2021/05/WEB-Full-Stack-Developer.jpg)
 <h1 align="center">Hi 👋, I'm Sagar</h1>
 <h3 align="center">A passionate Full-Stack Developer from Yavatmal, India</h3>
-<img align="right" alt="Coding" width="300" src="https://imarticus.org/blog/wp-content/uploads/2021/12/djbwgfw.gif">
+<img align="right" alt="Coding" width="325" src="https://imarticus.org/blog/wp-content/uploads/2021/12/djbwgfw.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sagar9623&label=Profile%20views&color=0e75b6&style=flat" alt="sagar9623" /> </p>
 

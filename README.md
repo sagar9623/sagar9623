@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **React.Js, Full-Stack Development, ML, ChatGPT, Anime, Games**
 
-- 📫 How to reach me **https://www.linkedin.com/in/sagar-katekhaye-a287a81a4/**
+- 📫 How to reach me **[https://www.linkedin.com/in/sagar-katekhaye-a287a81a4](https://www.linkedin.com/in/sagar-katekhaye-a287a81a4/)/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

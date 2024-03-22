@@ -5,11 +5,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sagar9623&label=Profile%20views&color=0e75b6&style=flat" alt="sagar9623" /> </p>
 
-- 🌱 I’m currently learning **Machine Learning, Data Science**
+- 🌱 I’m currently learning **Machine Learning, Data Science, Data Analysis **
 
 - 👨‍💻 All of my projects are available at [https://github.com/sagar9623](https://github.com/sagar9623)
 
-- 💬 Ask me about **React.Js, Frontend Development, ChatGPT, Anime, Games**
+- 💬 Ask me about **React.Js, Full-Stack Development, ML, ChatGPT, Anime, Games**
 
 - 📫 How to reach me **https://www.linkedin.com/in/sagar-katekhaye-a287a81a4/**
 

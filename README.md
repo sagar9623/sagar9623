@@ -1,4 +1,4 @@
-![MasterHead](https://cubettech.com/wp-content/uploads/2021/05/WEB-Full-Stack-Developer.jpg)&v=beta&t=q5S0E-n5z-gDvzZPdOvK7oorksu-JESWk3DdbbvU2ss)](https://codegrills.in)
+![MasterHead](https://cubettech.com/wp-content/uploads/2021/05/WEB-Full-Stack-Developer.jpg)
 <h1 align="center">Hi 👋, I'm Sagar</h1>
 <h3 align="center">A passionate Full-Stack Developer from Yavatmal, India</h3>
 <img align="right" alt="Coding" width="350" src="https://imarticus.org/blog/wp-content/uploads/2021/12/djbwgfw.gif">

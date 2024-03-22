@@ -1,11 +1,11 @@
-![MasterHead](https://cubettech.com/wp-content/uploads/2021/05/WEB-Full-Stack-Developer.jpg)
+![MasterHead](https://cubettech.com/wp-content/uploads/2021/05/WEB-Full-Stack-Developer.jpg)&v=beta&t=q5S0E-n5z-gDvzZPdOvK7oorksu-JESWk3DdbbvU2ss)](https://codegrills.in)
 <h1 align="center">Hi 👋, I'm Sagar</h1>
 <h3 align="center">A passionate Full-Stack Developer from Yavatmal, India</h3>
-<img align="right" alt="Coding" width="400" src="https://imarticus.org/blog/wp-content/uploads/2021/12/djbwgfw.gif">
+<img align="right" alt="Coding" width="350" src="https://imarticus.org/blog/wp-content/uploads/2021/12/djbwgfw.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sagar9623&label=Profile%20views&color=0e75b6&style=flat" alt="sagar9623" /> </p>
 
-- 🌱 I’m currently learning **Machine Learning, Data Science, Data Analysis **
+- 🌱 I’m currently learning **Machine Learning, Data Science, Data Analysis**
 
 - 👨‍💻 All of my projects are available at [https://github.com/sagar9623](https://github.com/sagar9623)
 

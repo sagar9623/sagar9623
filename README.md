@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **React.Js, Full-Stack Development, ML, ChatGPT, Anime, Games**
 
-- 📫 How to reach me [Email](katekhayesagar7@gmail.com).
+- 📫 How to reach me **[Here](mailto:katekhayesagar7@gmail.com).**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

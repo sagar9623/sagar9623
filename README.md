@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Machine Learning, Data Science, Data Analysis**
 
-- 👨‍💻 All of my projects are available at [https://github.com/sagar9623](https://github.com/sagar9623)
+- 👨‍💻 All of my projects are available at [Here](https://github.com/sagar9623?tab=repositories).
 
 - 💬 Ask me about **React.Js, Full-Stack Development, ML, ChatGPT, Anime, Games**
 
